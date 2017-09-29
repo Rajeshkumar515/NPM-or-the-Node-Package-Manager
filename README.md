@@ -1,8 +1,8 @@
 # NPM-or-the-Node-Package-Manager
 
--Install and remove modules
-Update modules
-All about package.json
+- Install and remove modules
+- Update modules
+- All about package.json
 Set init defaults
 Local & global modules
 Dependencies & dev dependencies
